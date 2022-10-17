@@ -1,0 +1,2 @@
+pycairo==1.21.0
+cairosvg==2.5.2
