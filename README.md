@@ -6,14 +6,13 @@ Simple tool to generate team logos avoiding copyright problems.
 
 1. Create the docker image with the software
 
-
 ```shell
 docker build -t team_avatar_builder .
 ```
 
-2.- Create a script to use the image using any of those already created in the project
+2. Create a script to use the image using any of those already created in the project
 
-3.- Alternativelly, just execute the tool using the image just created
+3. Alternativelly, just execute the tool using the image just created
 
 
 ```shell
